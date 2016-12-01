@@ -1,0 +1,24 @@
+body {
+	background-image: url("lol.jpg");
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	outline-color: black;
+	text-align: center;
+}
+
+h4 {
+	color: white;
+	outline-color: black;
+	text-align: center;
+}
+
+iframe {
+	text-align: center;
+}
+
+input {
+	text-align: center;
+}

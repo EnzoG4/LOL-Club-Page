@@ -1,0 +1,23 @@
+fieldset {
+	background-color: #66ffff;
+	font-size: 25px;
+	color: black;
+}
+body{
+	color: white;
+	background-image: url("lol2.jpg");
+	background-size: cover;
+}
+
+.form-control {
+	background-color: lightgray;
+}
+
+a {
+	color: blue;
+}
+
+.error {
+	background-color: red;
+	font-size: 25px;
+}
